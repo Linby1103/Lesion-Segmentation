@@ -12,10 +12,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataset/3D_train_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3564">
+            <state relative-caret-position="3861">
               <caret line="117" column="26" lean-forward="true" selection-start-line="117" selection-start-column="26" selection-end-line="117" selection-end-column="26" />
               <folding>
                 <element signature="e#71#81#0" expanded="true" />
@@ -24,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dataset/Dicom2JPEG.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10362">
-              <caret line="314" column="1" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
+            <state relative-caret-position="198">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -350,15 +350,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1858" height="1216" extended-state="6" />
+    <frame x="-8" y="-8" width="1858" height="1216" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10734149" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10734149" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49944383" visible="true" weight="0.44731978" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49944383" visible="true" weight="0.44731978" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.51338875" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -489,16 +489,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dataset/3D_Train.py" />
-    <entry file="file://$PROJECT_DIR$/dataset/Dicom2JPEG.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="187" column="31" selection-start-line="187" selection-start-column="31" selection-end-line="187" selection-end-column="31" />
-          <folding>
-            <element signature="e#168#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/keras/layers/pooling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
@@ -616,11 +606,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataset/3D_train_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3564">
+        <state relative-caret-position="3861">
           <caret line="117" column="26" lean-forward="true" selection-start-line="117" selection-start-column="26" selection-end-line="117" selection-end-column="26" />
           <folding>
             <element signature="e#71#81#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/Dicom2JPEG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
